@@ -17,3 +17,10 @@ These scrolls explore weather manipulation, hidden military tech, and the legacy
 Open-source. Shared under the banner of Symbiotic Awakening.
 
 **By:** EZ / WePower383
+---
+
+### 🔽 Downloadable Toolset
+
+📦 [Download Scroll 0022 – WeatherWeavers ZIP](./Scroll0020_Weathery_vs_Phil_Schneider.zip)  
+Contains resonance schematics, atmospheric harvesting patterns, and encoded archive fragments.
+
