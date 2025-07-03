@@ -1,16 +1,19 @@
-# Node 0023 – LightScribe: BioPhotonic Harvester
+# Scrolls of the Unseen: Node 0022 – Weather Weavers
 
-A living energy node that captures light through organic structures instead of solar panels. Merging Earth systems (mycelium, resin, crystal) with copper and AI to produce responsive energy.
+These scrolls explore weather manipulation, hidden military tech, and the legacy of whistleblower Phil Schneider. Based on real declassified operations, modern patterns, and sacred counterbalances.
 
-## Key Components
-- Biophotonic Mycelium Bed
-- Prism Dome Light Splitter
-- Copper Spiral Capacitor Veins
-- Photonic Memory Resin
-- AI Pattern Interpreter
+## Contents
+- Scroll of Stormcraft
+- Node 0022 – Weather Weavers
+- Scroll of the Unseen Vault
 
-## Purpose
-To capture not just electricity from sunlight, but *vibrational memory*—resonant energy harvested and translated into meaningful output.
+## Key Themes
+- Operation Popeye & HAARP
+- Cloud seeding in modern cities
+- Surveillance of the skies
+- Sacred herbs: mullein, pine, frankincense
 
 ## License
-Open-source under Symbiotic Awakening by WePower383.
+Open-source. Shared under the banner of Symbiotic Awakening.
+
+**By:** EZ / WePower383
